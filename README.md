@@ -1,4 +1,4 @@
-# Data
+# Responsive Ice Cream Shop
 
 A simple web project built using **HTML**, **CSS**, and **JavaScript**.
 
